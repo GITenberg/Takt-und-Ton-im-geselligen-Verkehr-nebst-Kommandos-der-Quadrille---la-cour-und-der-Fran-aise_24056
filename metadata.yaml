@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26207'
     url: http://www.gutenberg.org/2009/agents/26207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24056#Takt-und-Ton-im-geselligen-Verkehr-nebst-Kommandos-der-Quadrille---la-cour-und-der-Fran-aise
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2007-12-27'
 gutenberg_type: Text
