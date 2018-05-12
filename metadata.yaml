@@ -1,0 +1,26 @@
+_repo: Takt-und-Ton-im-geselligen-Verkehr-nebst-Kommandos-der-Quadrille---la-cour-und-der-Fran-aise_24056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rödiger, Richard
+    gutenberg_agent_id: '26207'
+    url: http://www.gutenberg.org/2009/agents/26207
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24056'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette'
+title: Takt und Ton im geselligen Verkehr nebst Kommandos der Quadrille à la cour
+  und der Française
+url: http://www.gutenberg.org/ebooks/24056
